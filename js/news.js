@@ -19,7 +19,7 @@ async function loadLatestNews() {
 
         posts.forEach(post => {
 
-            let image = "assets/images/news-placeholder.jpg";
+          let image = "https://via.placeholder.com/800x500/111827/C1121F?text=JANLEKH";
 
             if (
                 post._embedded &&
